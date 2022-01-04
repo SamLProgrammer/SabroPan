@@ -1,0 +1,455 @@
+[
+  {
+    "id": "ab123",
+    "name": "Fósforos",
+    "price": 200,
+    "type": "ARTICULO",
+    "measure": 0.0,
+    "measureType": "NO_REGISTRA",
+    "enabled": false,
+    "itemsList": [
+      {
+        "code": "ab123949",
+        "name": "Fósforos 0.0No Registra"
+      },
+      {
+        "code": "ab12386",
+        "name": "Fósforos 0.0No Registra"
+      },
+      {
+        "code": "ab12389",
+        "name": "Fósforos 0.0No Registra"
+      },
+      {
+        "code": "ab1235",
+        "name": "Fósforos 0.0No Registra"
+      },
+      {
+        "code": "ab12342",
+        "name": "Fósforos 0.0No Registra"
+      },
+      {
+        "code": "ab12361",
+        "name": "Fósforos 0.0No Registra"
+      },
+      {
+        "code": "ab12338",
+        "name": "Fósforos 0.0No Registra"
+      },
+      {
+        "code": "ab12301",
+        "name": "Fósforos 0.0No Registra"
+      },
+      {
+        "code": "ab12359",
+        "name": "Fósforos 0.0No Registra"
+      },
+      {
+        "code": "ab12395",
+        "name": "Fósforos 0.0No Registra"
+      },
+      {
+        "code": "ab12378",
+        "name": "Fósforos 0.0No Registra"
+      },
+      {
+        "code": "ab12325",
+        "name": "Fósforos 0.0No Registra"
+      },
+      {
+        "code": "ab12370",
+        "name": "Fósforos 0.0No Registra"
+      },
+      {
+        "code": "ab12340",
+        "name": "Fósforos 0.0No Registra"
+      },
+      {
+        "code": "ab123591",
+        "name": "Fósforos 0.0No Registra"
+      },
+      {
+        "code": "ab12368",
+        "name": "Fósforos 0.0No Registra"
+      },
+      {
+        "code": "ab12387",
+        "name": "Fósforos 0.0No Registra"
+      },
+      {
+        "code": "ab12358",
+        "name": "Fósforos 0.0No Registra"
+      },
+      {
+        "code": "ab12355",
+        "name": "Fósforos 0.0No Registra"
+      },
+      {
+        "code": "ab123184",
+        "name": "Fósforos 0.0No Registra"
+      },
+      {
+        "code": "ab123400",
+        "name": "Fósforos 0.0No Registra"
+      },
+      {
+        "code": "ab12313",
+        "name": "Fósforos 0.0No Registra"
+      },
+      {
+        "code": "ab12365",
+        "name": "Fósforos 0.0No Registra"
+      },
+      {
+        "code": "ab12349",
+        "name": "Fósforos 0.0No Registra"
+      },
+      {
+        "code": "ab12383",
+        "name": "Fósforos 0.0No Registra"
+      },
+      {
+        "code": "ab12307",
+        "name": "Fósforos 0.0No Registra"
+      },
+      {
+        "code": "ab12391",
+        "name": "Fósforos 0.0No Registra"
+      },
+      {
+        "code": "ab12337",
+        "name": "Fósforos 0.0No Registra"
+      },
+      {
+        "code": "ab12363",
+        "name": "Fósforos 0.0No Registra"
+      },
+      {
+        "code": "ab12372",
+        "name": "Fósforos 0.0No Registra"
+      },
+      {
+        "code": "ab12324",
+        "name": "Fósforos 0.0No Registra"
+      },
+      {
+        "code": "ab12312",
+        "name": "Fósforos 0.0No Registra"
+      },
+      {
+        "code": "ab12366",
+        "name": "Fósforos 0.0No Registra"
+      },
+      {
+        "code": "ab12331",
+        "name": "Fósforos 0.0No Registra"
+      },
+      {
+        "code": "ab12393",
+        "name": "Fósforos 0.0No Registra"
+      },
+      {
+        "code": "ab12397",
+        "name": "Fósforos 0.0No Registra"
+      },
+      {
+        "code": "ab123583",
+        "name": "Fósforos 0.0No Registra"
+      },
+      {
+        "code": "ab12304",
+        "name": "Fósforos 0.0No Registra"
+      },
+      {
+        "code": "ab12376",
+        "name": "Fósforos 0.0No Registra"
+      },
+      {
+        "code": "ab12311",
+        "name": "Fósforos 0.0No Registra"
+      },
+      {
+        "code": "ab123259",
+        "name": "Fósforos 0.0No Registra"
+      },
+      {
+        "code": "ab12398",
+        "name": "Fósforos 0.0No Registra"
+      },
+      {
+        "code": "ab12353",
+        "name": "Fósforos 0.0No Registra"
+      },
+      {
+        "code": "ab123986",
+        "name": "Fósforos 0.0No Registra"
+      },
+      {
+        "code": "ab123893",
+        "name": "Fósforos 0.0No Registra"
+      },
+      {
+        "code": "ab12310",
+        "name": "Fósforos 0.0No Registra"
+      },
+      {
+        "code": "ab123556",
+        "name": "Fósforos 0.0No Registra"
+      },
+      {
+        "code": "ab123879",
+        "name": "Fósforos 0.0No Registra"
+      },
+      {
+        "code": "ab12302",
+        "name": "Fósforos 0.0No Registra"
+      },
+      {
+        "code": "ab12339",
+        "name": "Fósforos 0.0No Registra"
+      },
+      {
+        "code": "ab12373",
+        "name": "Fósforos 0.0No Registra"
+      }
+    ]
+  },
+  {
+    "id": "aa111",
+    "name": "Aceite",
+    "price": 1500,
+    "type": "COMESTIBLE",
+    "measure": 600.0,
+    "measureType": "MILILITROS",
+    "enabled": false,
+    "itemsList": [
+      {
+        "code": "aa11181",
+        "name": "Aceite 600.0(mL)"
+      },
+      {
+        "code": "aa111672",
+        "name": "Aceite 600.0(mL)"
+      },
+      {
+        "code": "aa111699",
+        "name": "Aceite 600.0(mL)"
+      }
+    ]
+  },
+  {
+    "id": "bb222",
+    "name": "Harina",
+    "price": 1200,
+    "type": "COMESTIBLE",
+    "measure": 525.0,
+    "measureType": "GRAMOS",
+    "enabled": false,
+    "itemsList": [
+      {
+        "code": "bb222393",
+        "name": "Harina 525.0(g)"
+      },
+      {
+        "code": "bb22296",
+        "name": "Harina 525.0(g)"
+      },
+      {
+        "code": "bb2226",
+        "name": "Harina 525.0(g)"
+      },
+      {
+        "code": "bb2224",
+        "name": "Harina 525.0(g)"
+      },
+      {
+        "code": "bb2220",
+        "name": "Harina 525.0(g)"
+      },
+      {
+        "code": "bb2223",
+        "name": "Harina 525.0(g)"
+      },
+      {
+        "code": "bb22291",
+        "name": "Harina 525.0(g)"
+      },
+      {
+        "code": "bb22265",
+        "name": "Harina 525.0(g)"
+      },
+      {
+        "code": "bb22204",
+        "name": "Harina 525.0(g)"
+      },
+      {
+        "code": "bb2227",
+        "name": "Harina 525.0(g)"
+      },
+      {
+        "code": "bb22299",
+        "name": "Harina 525.0(g)"
+      },
+      {
+        "code": "bb22212",
+        "name": "Harina 525.0(g)"
+      },
+      {
+        "code": "bb22279",
+        "name": "Harina 525.0(g)"
+      },
+      {
+        "code": "bb2222",
+        "name": "Harina 525.0(g)"
+      },
+      {
+        "code": "bb22268",
+        "name": "Harina 525.0(g)"
+      },
+      {
+        "code": "bb222969",
+        "name": "Harina 525.0(g)"
+      },
+      {
+        "code": "bb22209",
+        "name": "Harina 525.0(g)"
+      },
+      {
+        "code": "bb22246",
+        "name": "Harina 525.0(g)"
+      }
+    ]
+  },
+  {
+    "id": "cc333",
+    "name": "Pan coco",
+    "price": 300,
+    "type": "COMESTIBLE",
+    "measure": 0.0,
+    "measureType": "NO_REGISTRA",
+    "enabled": false,
+    "itemsList": [
+      {
+        "code": "cc33381",
+        "name": "Pan coco 0.0No Registra"
+      },
+      {
+        "code": "cc333783",
+        "name": "Pan coco 0.0No Registra"
+      },
+      {
+        "code": "cc33351",
+        "name": "Pan coco 0.0No Registra"
+      },
+      {
+        "code": "cc33304",
+        "name": "Pan coco 0.0No Registra"
+      },
+      {
+        "code": "cc33319",
+        "name": "Pan coco 0.0No Registra"
+      },
+      {
+        "code": "cc33394",
+        "name": "Pan coco 0.0No Registra"
+      },
+      {
+        "code": "cc333621",
+        "name": "Pan coco 0.0No Registra"
+      },
+      {
+        "code": "cc33314",
+        "name": "Pan coco 0.0No Registra"
+      },
+      {
+        "code": "cc33338",
+        "name": "Pan coco 0.0No Registra"
+      },
+      {
+        "code": "cc333140",
+        "name": "Pan coco 0.0No Registra"
+      }
+    ]
+  },
+  {
+    "id": "KM1",
+    "name": "Leche (Alpina)",
+    "price": 2300,
+    "type": "BEBIDA",
+    "measure": 1.0,
+    "measureType": "LITROS",
+    "enabled": false,
+    "itemsList": [
+      {
+        "code": "KM13",
+        "name": "Leche (Alpina) 1.0(L)"
+      },
+      {
+        "code": "KM143",
+        "name": "Leche (Alpina) 1.0(L)"
+      },
+      {
+        "code": "KM146",
+        "name": "Leche (Alpina) 1.0(L)"
+      },
+      {
+        "code": "KM157",
+        "name": "Leche (Alpina) 1.0(L)"
+      },
+      {
+        "code": "KM107",
+        "name": "Leche (Alpina) 1.0(L)"
+      },
+      {
+        "code": "KM194",
+        "name": "Leche (Alpina) 1.0(L)"
+      },
+      {
+        "code": "KM124",
+        "name": "Leche (Alpina) 1.0(L)"
+      },
+      {
+        "code": "KM1050",
+        "name": "Leche (Alpina) 1.0(L)"
+      },
+      {
+        "code": "KM140",
+        "name": "Leche (Alpina) 1.0(L)"
+      },
+      {
+        "code": "KM177",
+        "name": "Leche (Alpina) 1.0(L)"
+      }
+    ]
+  },
+  {
+    "id": "ZV3",
+    "name": "Salchichas",
+    "price": 10000,
+    "type": "COMESTIBLE",
+    "measure": 0.0,
+    "measureType": "NO_REGISTRA",
+    "enabled": true,
+    "itemsList": []
+  },
+  {
+    "id": "IC9",
+    "name": "Pan Francés",
+    "price": 1000,
+    "type": "COMESTIBLE",
+    "measure": 0.0,
+    "measureType": "NO_REGISTRA",
+    "enabled": true,
+    "itemsList": []
+  },
+  {
+    "id": "XK9",
+    "name": "1",
+    "price": 1,
+    "type": "COMESTIBLE",
+    "measure": 0.0,
+    "measureType": "NO_REGISTRA",
+    "enabled": true,
+    "itemsList": []
+  }
+]

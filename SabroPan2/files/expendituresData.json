@@ -1,0 +1,14 @@
+[
+  {
+    "reason": "Compra de mesa nueva",
+    "price": 50000,
+    "date": {
+      "year": 2020,
+      "month": 1,
+      "dayOfMonth": 12,
+      "hourOfDay": 0,
+      "minute": 54,
+      "second": 20
+    }
+  }
+]

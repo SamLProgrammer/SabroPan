@@ -1,0 +1,42 @@
+[
+  {
+    "id": "111",
+    "name": "Samuel",
+    "password": "12345",
+    "lastName": "L¢pez",
+    "userState": "ACTIVE",
+    "position": "ADMIN"
+  },
+  {
+    "id": "112",
+    "name": "Mayerly",
+    "password": "12345",
+    "lastName": "Ayala",
+    "userState": "ACTIVE",
+    "position": "ADMIN"
+  },
+  {
+    "id": "113",
+    "name": "Santiago",
+    "password": "11111",
+    "lastName": "Becerra",
+    "userState": "ACTIVE",
+    "position": "SELLER"
+  },
+  {
+    "id": "121",
+    "name": "Harry",
+    "password": "11111",
+    "lastName": "Popotter",
+    "userState": "INACTIVE",
+    "position": "SELLER"
+  },
+  {
+    "id": "122",
+    "name": "Nicolás",
+    "password": "11111",
+    "lastName": "Colmenares",
+    "userState": "ACTIVE",
+    "position": "SELLER"
+  }
+]
